@@ -2,7 +2,7 @@
 
 # 자!기!소!개!
 
-### 경기게임마이스터고등학교 재학 중이고, 개발 전공입니다.
+### 경기게임마이스터고등학교 재학 중이고, 이펙터 지망생입니다.
 
 ---
 
@@ -18,7 +18,7 @@
   
 </div>
  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Gusdnd01&show_icons=true&theme=radical"/>
+<img align="left" src=https://github-readme-stats.vercel.app/api?username=[Gusdnd01]/>
 
 <dic align="right">
 
