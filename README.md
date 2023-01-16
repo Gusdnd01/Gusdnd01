@@ -18,7 +18,7 @@
   
 </div>
  
-<img align="left" src=https://github-readme-stats.vercel.app/api?username=[Gusdnd01]/>
+<img align="left" src=(https://github-readme-stats.vercel.app/api?gusdnd01=anuraghazra&count_private=true/>
 
 <dic align="right">
 
