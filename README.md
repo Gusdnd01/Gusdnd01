@@ -9,13 +9,11 @@
 
 ### 익숙한 툴
 <div>
-  <center>
 <img height="75" width="75" src="https://i.imgur.com/echRLji.png"> <img height="75" width="75" src="https://pbs.twimg.com/media/ELnOI_EWoAIIgHH.jpg:large"> <img height="75" width="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png">
 <br>
 <img height="75" width="75" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png">
 <img height="75" width="75" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png">
 <img height="75" width="75" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png">
-    </center>
 </div>
 ### 공부 중인 툴
 <img height="75" width="75" src="https://static-00.iconduck.com/assets.00/unreal-engine-icon-512x512-0mwtjk1x.png"> <img height="75" width="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png"> <img height="75" width="75" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png">
