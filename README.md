@@ -39,7 +39,6 @@ _번개 스킬입니다._<br>
 
 _나머지 내용은 아래 링크에서 볼 수 있습니다!_ <br>
 velog: https://velog.io/@gusdnd_01_11/posts <br>
-portfolio: [노션 포트폴리오](https://www.notion.so/e0f95ae5f631411ba7993c8814b2bff3?v=414561f4714b42d3aefe8261345399e4&pvs=4) <br>
 
 ## 할 수 있는 것.
 
